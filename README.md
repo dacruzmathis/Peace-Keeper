@@ -3,7 +3,7 @@
 The project consist to develop a real-time solution to monitoring civilians in order to prevent any acts of rebelion.  
 The project is fully-developped in scala and spark is used for the statistics part (dataframe) and architecture part for the stream kafka for example.  
 Master 1 project made for the Data Engineering cursus at Efrei Paris.  
-Made by Da Cruz Mathis, Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
+Made with Sivananthan Sarankan and Sebastiao-Esteves Kevin.  
 
 ![Alt text](img/Image1.png)
 
